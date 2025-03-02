@@ -24,7 +24,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/Users/neera/Desktop/FPGA_Projects/EE2026Lab1/EE2026Lab1.runs/synth_1'
+HD_PWD='C:/Users/neera/Desktop/EE2026Lab1/EE2026Lab1.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log

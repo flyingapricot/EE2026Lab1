@@ -2,11 +2,11 @@
 # Vivado v2018.2 (64-bit)
 # SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
 # IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
-# Start of session at: Tue Feb  4 16:01:52 2025
-# Process ID: 25144
-# Current directory: C:/Users/neera/Desktop/FPGA_Projects/EE2026Lab1/EE2026Lab1.runs/impl_1
+# Start of session at: Mon Mar  3 01:50:11 2025
+# Process ID: 14908
+# Current directory: C:/Users/neera/Desktop/EE2026Lab1/EE2026Lab1.runs/impl_1
 # Command line: vivado.exe -log my_control_module.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source my_control_module.tcl -notrace
-# Log file: C:/Users/neera/Desktop/FPGA_Projects/EE2026Lab1/EE2026Lab1.runs/impl_1/my_control_module.vdi
-# Journal file: C:/Users/neera/Desktop/FPGA_Projects/EE2026Lab1/EE2026Lab1.runs/impl_1\vivado.jou
+# Log file: C:/Users/neera/Desktop/EE2026Lab1/EE2026Lab1.runs/impl_1/my_control_module.vdi
+# Journal file: C:/Users/neera/Desktop/EE2026Lab1/EE2026Lab1.runs/impl_1\vivado.jou
 #-----------------------------------------------------------
 source my_control_module.tcl -notrace

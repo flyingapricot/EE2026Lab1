@@ -24,7 +24,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/Users/neera/Desktop/FPGA_Projects/EE2026Lab1/EE2026Lab1.runs/impl_1'
+HD_PWD='C:/Users/neera/Desktop/EE2026Lab1/EE2026Lab1.runs/impl_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log
@@ -41,7 +41,7 @@ EAStep()
 }
 
 # pre-commands:
-/bin/touch .write_bitstream.begin.rst
+/bin/touch .init_design.begin.rst
 EAStep vivado -log my_control_module.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source my_control_module.tcl -notrace
 
 

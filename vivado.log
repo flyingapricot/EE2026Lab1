@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Mar  3 01:49:04 2025
+# Process ID: 12920
+# Current directory: C:/Users/neera/Desktop/EE2026Lab1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5428 C:\Users\neera\Desktop\EE2026Lab1\EE2026Lab1.xpr
+# Log file: C:/Users/neera/Desktop/EE2026Lab1/vivado.log
+# Journal file: C:/Users/neera/Desktop/EE2026Lab1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/neera/Desktop/EE2026Lab1/EE2026Lab1.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/neera/Desktop/FPGA_Projects/EE2026Lab1' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 10
+[Mon Mar  3 01:49:47 2025] Launched synth_1...
+Run output will be captured here: C:/Users/neera/Desktop/EE2026Lab1/EE2026Lab1.runs/synth_1/runme.log
+[Mon Mar  3 01:49:47 2025] Launched impl_1...
+Run output will be captured here: C:/Users/neera/Desktop/EE2026Lab1/EE2026Lab1.runs/impl_1/runme.log

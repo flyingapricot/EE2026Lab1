@@ -32,4 +32,5 @@ module my_control_module(
     assign LED1 = (A & ~B) | (A & B);
     assign LED2 = (~A & B) | (A & B);
     assign LED3 = (A & B);
+    //assign LED4
 endmodule
